@@ -16,7 +16,8 @@
 
 * **Распознавание лиц сотрудников учреждения:**
     Проект, сфокусированный на реализации систем распознавания лиц с использованием алгоритмов ASM, DRFM, CLM.
-    * Репозиторий: [https://github.com/Speed-0f-L1ght/FaceIDSystem](https://github.com/Speed-0f-L1ght/FaceIDSystem)
+    * Обучающий репозиторий: [https://github.com/Faso-main/Face_ID_IAIT](https://github.com/Faso-main/Face_ID_IAIT)
+    * Рабочий репозиторий: [https://github.com/Speed-0f-L1ght/FaceIDSystem](https://github.com/Speed-0f-L1ght/FaceIDSystem)
 
 * **Система анализа неструктурированных медицинских данных:**
     Совместный проект с Самарским Государственным Медицинским Университетом (СамГМУ) по разработке инструментов для обработки и анализа неструктурированных медицинских данных.
